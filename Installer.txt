@@ -8,3 +8,5 @@ echo Sicher das sie ___ Installiren moechten? (Enter = Bestaetigen)
 pause > Nul
 color A
 git clone https://github.com/mods-code/Installer.git
+echo Fertig
+pause
