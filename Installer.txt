@@ -1,6 +1,7 @@
 @echo off
 
-echo Hallo, dies ist ein Test
+echo Bitte Zihe diese datei in einen neuen ordner
+echo Fals du das getan hast drücke enter
 pause > Nul
 
 git clone https://github.com/mods-code/Installer.git
