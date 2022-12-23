@@ -1,7 +1,10 @@
 @echo off
 
-echo Bitte Zihe diese datei in einen neuen ordner
-echo Fals du das getan hast drücke enter
+echo Bitte Ziehen sie diese datei in einen neuen ordner.
+echo Fals sie dies getan haben druecken sie Enter.
 pause > Nul
-
+color 6
+echo Sicher das sie ___ Installiren möchten? (Enter = Bestaetigen)
+pause > Nul
+color A
 git clone https://github.com/mods-code/Installer.git
